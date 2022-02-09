@@ -1,0 +1,30 @@
+h1 {
+    font-size: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.jumbotron {
+    background-image: url("Screenshot 2022-02-09 002531.jpg");
+}
+#homePage {
+    display: none;
+}
+#appForm{
+    display: none;
+}
+#crimeForm{
+    display: none;
+}
+#employForm{
+    display: none;
+}
+#contButton{
+    display: none;
+}
+#submitButton{
+    display: none;
+}
+#workHist{
+    display: none;
+}
